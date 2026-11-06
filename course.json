@@ -1,0 +1,33 @@
+{
+  "course_id": "ICB-P20",
+  "repository": "icb-p20-credential-champions-getting-adoption-inside",
+  "repository_url": "https://github.com/ICoBC/icb-p20-credential-champions-getting-adoption-inside",
+  "title": "Credential Champions: Getting Adoption Inside Your Organisation",
+  "subtitle": "Stakeholders, champions and the move from pilot to routine.",
+  "version": "1.0.0",
+  "series": "Practitioner",
+  "skill": "Adoption and change leadership",
+  "level": "3",
+  "level_name": "Enable",
+  "stage": "A",
+  "stage_name": "Ability",
+  "alignment_code": "ICSF-ADPT-L3-A",
+  "badge_name": "Credential Champions: Getting Adoption Inside Your Organisation (Ability, L3)",
+  "hours": "6",
+  "language": "en-GB",
+  "licence": "CC BY 4.0",
+  "licensor": "International Council on Badges and Credentials e.V.",
+  "web": "https://academy.icobc.net/courses/icb-p20/",
+  "parts": [
+    "About this course",
+    "Stakeholders",
+    "Champions",
+    "Communication",
+    "Objections",
+    "From pilot to routine",
+    "Assessment and badge",
+    "Sources and further reading"
+  ],
+  "final_questions": 10,
+  "practice_questions": 20
+}
